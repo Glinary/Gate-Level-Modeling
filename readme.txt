@@ -1,1 +1,1 @@
-A repository for CSARCH1 MCO1. Verilog and Gatewave were used.
+A repository for CSARCH1 MCO1. Verilog and GTKWave were used.
